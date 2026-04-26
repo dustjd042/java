@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.yeonseong'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(8)
+    }
+}

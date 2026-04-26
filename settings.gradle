@@ -1,1 +1,8 @@
 rootProject.name = 'java'
+
+include 'common'
+include 'java8'
+include 'java11'
+include 'java17'
+include 'java21'
+include 'java25'
